@@ -5,3 +5,4 @@ if __name__ == '__main__':
 	else:
 		x = x + " - Best class ever"
 		print(x)
+test.py
